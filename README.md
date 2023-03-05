@@ -31,3 +31,25 @@ Se você está procurando uma maneira mais fácil e eficiente de criar aplicativ
   - Functions (FAAS)
   - Serverless
   - Sistemas Reativos
+
+## Características do Java em 1995
+
+- Mais utilizado para aplicações GUI
+- Um core, várias núcleos
+- Aplicações monolíticas
+- Máquinas gigantes que rodam 24/7
+- Tempo de spin up é irrelevante
+- Muita memória utilizada
+
+Observação: A lista acima apresenta as características do Java em 1995, destacando as principais diferenças em relação às arquiteturas de software atuais.
+
+## Características das arquiteturas de software atuais
+
+- Máquinas pequenas
+- Múltiplos núcleos, uma thread
+- Deploy de centenas de microserviços
+- Troca de infraestrutura (CLOUD PRIVADA > CLOUD PÚBLICA > MULTI CLOUD)
+- Auto scaling adicionando mais instâncias (horizontal)
+
+Observação: A lista acima apresenta as características das arquiteturas de software atuais, que são muito diferentes das características do Java em 1995. As arquiteturas atuais são mais flexíveis e escaláveis, permitindo que as aplicações se adaptem facilmente às mudanças na demanda e na infraestrutura.
+
